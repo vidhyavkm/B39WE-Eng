@@ -1,0 +1,18 @@
+it vs code the names of the can be anything. it wont affect.
+but if u want to push ur codes in github, that is also ok
+finally in netlify before deploying ur html file should be in the name of index.html
+
+how to get output in github pages instaed of netlify
+=> first open ur repo
+=> click settings
+=> click pages, in left side
+=> click save 
+
+types of functions:
+
+1. named or normal functions
+2. IIFE = immediatelty invoked function expression 
+3. Anonymous function
+4. Arrow function=>ES6
+
+position properties
